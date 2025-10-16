@@ -1,19 +1,17 @@
-# lista-de-caracteres-especiales
-
-<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Templo XSS plantilla"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>	
+<h1 align="center"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"><img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif">"Lista de caracteres especiales"<img height="40" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWx4YTl1dW9scXlqZDk2cTdyY2VvcXQwMG40OGoxY25rZzV0MDZhcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/peSyJWjNTRfzaWh49M/giphy.gif"><img height="40" src="https://github.com/Aquiles369/iconos/blob/main/img/lobo1.gif"></h1>	
 
 
 <br>
 
 
 <p align="center">
- <img  height="470rem" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3BnamQ1bGwwd2d1dGV2OW53Z2cwc3B5OXg5OW0xdTl4d2J2ZTAwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cdEbXTbku2vpO23TKx/giphy.gif"/>
+ <img  height="470rem" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHE0dXVua2pwcG5iOHprMjNhOGUxNWJ2eTJnNDN1dWVudWF5Mmd4MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QrpVwPDGmJEIvHwKEc/giphy.gif"/>
 </p>
 
 
 <picture> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  </picture>
 
- ### <picture> <img src = "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJyODl2bXo4enQwNTQzbHFmMzIyYzMyNnQ0Zm9xMW93NWZlNGV6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tYNVf5a6cTlTET7KfU/giphy.gif" width = 75px>  </picture> Plantilla Maestra XSS — Orquestador de payloads, validación y evasión
+ ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZlbmU1eXcxZnNjcWVpc2kza3A4amxjOHo5enU1cWx1M2Z6em9qbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/G32A6zBNpKxBFLL947/giphy.gif" width = 75px>  </picture> Lista de caracteres especiales
 
 <br>
 
