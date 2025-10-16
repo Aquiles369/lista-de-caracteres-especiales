@@ -19,7 +19,7 @@
 <br><br> 
 
 <p align="center">
- <img  height="420rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_youtube_git_plantilla_xss.gif"/>
+ <img  height="420rem" alt="GIF" src="https://github.com/Aquiles369/iconos/blob/main/demo_lsita_caracteres_especiales.gif"/>
 </p>
 
 <br>
