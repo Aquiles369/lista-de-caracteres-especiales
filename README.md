@@ -119,10 +119,10 @@ $
 ```
 <br>
 
-## Explicacion de cada caracter y categoria de la lista.<br>
+## Explicacion de cada caracter y categoría de la lista.<br>
 
 ```yaml
-x3_caracteres_disponibles:
+Caracteres_disponibles:
 	   ========================
 	   🧩 Carácteres de sintaxis HTML
 	   ========================
