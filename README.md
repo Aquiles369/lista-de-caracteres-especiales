@@ -15,8 +15,7 @@
 
 <br>
 
- **Repositorio / URL de la herramienta: visor/gestor local con categorías, CRUD, búsqueda, contadores, alta masiva y exportación/importación JSON.
-Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valida payloads XSS multi-contexto (HTML/JS/URL/SVG/MathML/DOM) con reglas estrictas, perfiles de WAF/CSP/sanitizadores, y trazabilidad de fuentes y codificaciones. Ideal para bug bounty en laboratorio,<a href="https://www.youtube.com/watch?v=m0aktk8Kcdg" target="_blank" rel="noopener">demo de la tool Youtube</a>.** 
+ **Colección completa de caracteres y combinaciones esenciales que permiten crear, ejecutar y mutar payloads XSS en cualquier contexto web. Son la base para romper validaciones, escapar del flujo normal de análisis y lograr ejecución arbitraria incluso frente a filtros o WAF,<a href="https://www.youtube.com/watch?v=m0aktk8Kcdg" target="_blank" rel="noopener">demo lista caracteres especiales Youtube</a>.** 
 <br><br> 
 
 <p align="center">
@@ -28,22 +27,16 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 <br>
 
 ### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ1Z3BzcmY0ZTJ3dDl1bWNkM3U1NGxjNjJjNGpnYTNwaDVmZHQ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hritbzsE8wRhMoMo16/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
-**• En pentests, la info XSS vive desperdigada: cheatsheets, blogs, PoCs viejos, listas de WAF, snippets de codificación, y notas sueltas. Resultado:<br><br>
-• Lento encontrar payloads que ejecuten en el contexto exacto (atributo con/sin comillas, href/src, innerHTML, SVG/MathML, JSON-in-HTML, etc.).<br><br>
-• Difícil versionar ofuscaciones/codificaciones y probar evasiones realistas (CSP/WAF/sanitizadores).<br><br>
-• Mucha duplicación y poca validación (comillas desbalanceadas, etiquetas inválidas).<br><br>
-• Esta plantilla te da un hub operable offline: motores y categorías XSS curadas, combinaciones válidas etiqueta/atributo/evento, codificaciones híbridas, perfiles de WAF/CSP, validación destructiva y export/import JSON para colaborar.</a>.** 
+**•Evita las limitaciones impuestas por validaciones, sanitizadores y parsers rígidos.<br><br>
+• Permite escapar de contextos HTML, JS o URL, romper atributos, manipular estructuras DOM y ejecutar código incluso en entornos altamente protegidos.** 
 
 <br>
 
 ### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2poZHlxNTdkbHRlZGttMDY4aHczamZybGw1Z3FzNG1mc3Z0Ym9xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OPvbEFZEY4Zk0VDfm4/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
-**• Cobertura por contexto (atributo, HTML plano, JS inline, URLs, SVG/MathML, DOM sinks, JSON incrustado, headers, etc.).<br><br>
-• Matriz de combinaciones válidas (etiqueta/atributo/evento) para minimizar falsos positivos.<br><br>
-• Codificación híbrida de especiales (x20) + ofuscaciones de alto rendimiento (ASCII/latín ext./griego/cirílico) sin romper ejecución.<br><br>
-• Perfiles de WAF/CSP/Sanitizadores listos para alternar: Cloudflare, Imperva, ModSecurity CRS, DOMPurify, etc.<br><br>
-• Validación estricta: comillas balanceadas, cierre de etiquetas, “JS real ejecutado”, unicidad (anti-colisión), entropía mínima, ~10% texto plano mezclado.<br><br>
-• Velocidad operativa: alta masiva, completar en bloque, dedupe, contadores por categoría, export/import JSON.<br><br>
-• Trazabilidad: cada payload guarda qué categorías usó (x1…x20), codificaciones, ofuscación, perfil WAF/CSP, fuentes, y hash normalizado.</a>.** 
+**• Control total del contexto: facilita el salto entre HTML, JS, CSS y URL.<br>
+ • Bypass de filtros y WAF: explota inconsistencias en el análisis para evadir reglas.<br>
+ • Mutación y polimorfismo: permite construir payloads dinámicos y no detectables.<br>
+ • Compatibilidad universal: funcionales en navegadores modernos y entornos reales.** 
 
 <br>
 
@@ -54,8 +47,7 @@ Stack: 100% offline (HTML/JS). Un “orquestador” que genera, cataloga y valid
 ### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0bzc3dXd6anZyaXJjb3RibDlzazRyb200YTYyMXY2eG14eXZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dOb9fRwEw6etHj14Kd/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
-- Plantilla Maestra XSS — tu fábrica offline de payloads que sí ejecutan, con rastro completo de cómo se construyeron y por qué pasan (o no) validación, WAF y CSP.<br>
-- Plantilla maestra de xss todo en uno usar con IA.<br><br>
+- Base táctica de cualquier explotación XSS. Esta lista reúne caracteres críticos y combinaciones especiales que desbloquean ejecución, evasión y manipulación avanzada en múltiples contextos, desde HTML hasta JavaScript y URL encoding.<br><br>
 
 ## Lista de caracteres especiales: <br>
 
