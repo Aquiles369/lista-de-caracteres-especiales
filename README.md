@@ -26,13 +26,13 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXJ1Z3BzcmY0ZTJ3dDl1bWNkM3U1NGxjNjJjNGpnYTNwaDVmZHQ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hritbzsE8wRhMoMo16/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
+### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzc3azl6ODliZzk1bXJzcWx5a3J4d2c3b3dkOGlkZXB2bWVoaGtoaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8r5I4TlcSDgokOtrt7/giphy.gif" width = 75px>  </picture> Problema que resuelve<br><br>
 **•Evita las limitaciones impuestas por validaciones, sanitizadores y parsers rígidos.<br><br>
 • Permite escapar de contextos HTML, JS o URL, romper atributos, manipular estructuras DOM y ejecutar código incluso en entornos altamente protegidos.** 
 
 <br>
 
-### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2poZHlxNTdkbHRlZGttMDY4aHczamZybGw1Z3FzNG1mc3Z0Ym9xZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OPvbEFZEY4Zk0VDfm4/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
+### <picture> <img src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Njb2p4dGZqZjlnNGdydGRyczY2bnY4NzJvb2JucnNhbWxiYTJpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KHNDYMPSgUTW6JhHSJ/giphy.gif" width = 75px>  </picture> Qué aporta y cómo beneficia <br><br>
 **• Control total del contexto: facilita el salto entre HTML, JS, CSS y URL.<br>
  • Bypass de filtros y WAF: explota inconsistencias en el análisis para evadir reglas.<br>
  • Mutación y polimorfismo: permite construir payloads dinámicos y no detectables.<br>
@@ -44,7 +44,7 @@
 <picture> <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width ="1050" > </picture>
 <br>
 
-### <picture> <img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXc0bzc3dXd6anZyaXJjb3RibDlzazRyb200YTYyMXY2eG14eXZrZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/dOb9fRwEw6etHj14Kd/giphy.gif" width = 80px>  </picture> Resumen rápido
+### <picture> <img src = "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTBreXJ5anFhanF6ZmlxZ3hyeTNwN3d0cjhrZG1kMWRsNzlsY2l1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QEBvjDBTMluUmb2b6X/giphy.gif" width = 80px>  </picture> Resumen rápido
 <br><br>
 
 - Base táctica de cualquier explotación XSS. Esta lista reúne caracteres críticos y combinaciones especiales que desbloquean ejecución, evasión y manipulación avanzada en múltiples contextos, desde HTML hasta JavaScript y URL encoding.<br><br>
